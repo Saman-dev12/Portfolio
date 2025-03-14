@@ -24,14 +24,14 @@ export const projects = [
     title: "Collaborative-Editor",
     description:
       "Collaborative Code Editor is a web-based platform designed for real-time coding collaboration.",
-    tech: "Nextjs",
+    tech: "NextJS",
     link: "https://collaborative-editor-three.vercel.app/",
   },
   {
     title: "Disco-Infinite-Store",
     description:
       "Disco Infinite Store is a web-based platform designed for uploading and storing images using Discord's CDN.",
-    tech: "Discordjs",
+    tech: "DiscordJS",
     link: "https://discoimg.vercel.app/",
   },
 ];
@@ -43,6 +43,7 @@ const techColors = {
   Langchain: "bg-green-500",
   Prisma: "bg-purple-500",
   Python: "bg-yellow-500",
+  DiscordJS: "bg-gray-500",
 };
 
 export const Projects = () => {
