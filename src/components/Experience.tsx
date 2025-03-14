@@ -18,7 +18,7 @@ export const Experience = () => {
       logo: theme == "light" ? "/light-company.svg" : "/dark-company.svg",
       duration: "2023 July - 2023 Sept",
       description:
-        "Lead developer for multiple high-impact projects, Made the landing page, and implementing best practices.",
+        "Lead developer for multiple high-impact projects, Made the landing page, and implemented best practices.",
       link: "https://techinnovators.com",
       images: [],
     },
