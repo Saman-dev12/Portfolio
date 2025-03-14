@@ -16,7 +16,7 @@ export const Experience = () => {
       role: "ITA",
       company: "Internexus.",
       logo: theme == "light" ? "/light-company.svg" : "/dark-company.svg",
-      duration: "2023 July - 2023 Sept",
+      duration: "2023 Sept - 2024 Feb",
       description:
         "Lead developer for multiple high-impact projects, Made the landing page, and implemented best practices.",
       link: "https://techinnovators.com",
